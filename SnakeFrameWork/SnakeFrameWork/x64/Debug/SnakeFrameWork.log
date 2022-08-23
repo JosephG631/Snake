@@ -1,0 +1,20 @@
+﻿  Arena.cpp
+  CharObject.cpp
+  CollisionDetection.cpp
+  Game.cpp
+  Helpers.cpp
+  InputManager.cpp
+  Main.cpp
+  PlayerData.cpp
+  Rat.cpp
+  Settings.cpp
+  Snake.cpp
+  SnakeBody.cpp
+  SnakeComponent.cpp
+  SnakeHead.cpp
+  Sound.cpp
+  Timer.cpp
+  Vector2.cpp
+  Generating Code...
+Sound.obj : error LNK2019: unresolved external symbol __imp_PlaySoundW referenced in function "public: void __cdecl Sound::playDieSound(void)" (?playDieSound@Sound@@QEAAXXZ)
+G:\Uni Year 2\Module 7\GitHubRepos\SnakeFrameWork\x64\Debug\SnakeFrameWork.exe : fatal error LNK1120: 1 unresolved externals
